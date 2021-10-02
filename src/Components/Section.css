@@ -1,0 +1,13 @@
+
+.regular-progression {
+    background: linear-gradient(to left, rgb(73, 45, 197), cyan);
+    height:500vh;
+    border-radius: 70%;
+
+    
+  }
+  .btn-1{
+    background: linear-gradient(to left, rgb(73, 45, 197), cyan);
+    border-radius: 2%;
+    border: none;
+  }
